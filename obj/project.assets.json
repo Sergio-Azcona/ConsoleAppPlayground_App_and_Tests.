@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ConsoleAppPlayground/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConsoleAppPlayground.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleAppPlayground.dll": {}
+        }
       }
     }
   },
@@ -5506,10 +5516,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ConsoleAppPlayground/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleAppPlayground/ConsoleAppPlayground/ConsoleAppPlayground.csproj",
+      "msbuildProject": "../ConsoleAppPlayground/ConsoleAppPlayground/ConsoleAppPlayground.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ConsoleAppPlayground >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5542,7 +5558,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\ConsoleAppPlayground\\ConsoleAppPlayground\\ConsoleAppPlayground.csproj": {
+              "projectPath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\ConsoleAppPlayground\\ConsoleAppPlayground\\ConsoleAppPlayground.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleAppPlayground\ConsoleAppPlayground\ConsoleAppPlayground.csproj" />
+  </ItemGroup>
+
 </Project>
