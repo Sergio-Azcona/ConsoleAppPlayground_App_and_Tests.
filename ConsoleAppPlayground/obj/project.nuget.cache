@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IkRJ9+qLLubjRp+1AJpCPLffO7lr1FPzZ2CYx+uqnkUhes1vCRNHLH4wfh5+/Zj3oHXOf+qrnWtXy9EwmzBprA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sazcona\\OneDrive - Odyssey Logistics & Technology Corporation\\Desktop\\sandbox\\ConsoleAppPlayground\\ConsoleAppPlayground\\ConsoleAppPlayground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sazcona\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\sazcona\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\sazcona\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\sazcona\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

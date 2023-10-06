@@ -1,0 +1,14 @@
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\net6.0\ConsoleAppPlayground.exe
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\net6.0\ConsoleAppPlayground.deps.json
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\net6.0\ConsoleAppPlayground.runtimeconfig.json
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\net6.0\ConsoleAppPlayground.dll
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\net6.0\ConsoleAppPlayground.pdb
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.AssemblyInfoInputs.cache
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.AssemblyInfo.cs
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.csproj.CoreCompileInputs.cache
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.dll
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\refint\ConsoleAppPlayground.dll
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.pdb
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ConsoleAppPlayground.genruntimeconfig.cache
+C:\Users\sazcona\OneDrive - Odyssey Logistics & Technology Corporation\Desktop\sandbox\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\net6.0\ref\ConsoleAppPlayground.dll
